@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi,I'm moschao  <img src="https://github.com/Light-City/Light-City/blob/main/wave.gif?raw=true" width="30px">
+# I'm moschao  <img src="https://github.com/Light-City/Light-City/blob/main/wave.gif?raw=true" width="30px">
 
- <img src="https://github.com/Light-City/Light-City/blob/main/mtt.jpg?raw=true">
+ <img src="https://gitee.com/w3cmiui/myblogimage/raw/master/img/os.jpeg?raw=true">
 
 I ❤️ Back-end Development!
 
@@ -51,7 +51,7 @@ I ❤️ Back-end Development!
 
 ## 🌎 Find me
 - wechat Official Account: search **薛定谔的猫**📹 ✍🏾
-- blog: click [geek-guangcheng](https://light-city.club/)🏓
+- blog: click [geek-guangcheng](https://github.com/moschao/)🏓
 
 ## 🌎 Visitors
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
