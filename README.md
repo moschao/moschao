@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'm moschao  <img src="https://github.com/Light-City/Light-City/blob/main/wave.gif?raw=true" width="60px">
+# I'm moschao  <img src="https://gitee.com/w3cmiui/myblogimage/raw/master/img/wave.gif?raw=true" width="60px">
 
 I ❤️ Back-end Development!
 
